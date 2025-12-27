@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Deloitte.<br>I'm a full-stack developer with proficiency in ReactJS, NextJS, NodeJS, and PostgreSQL.<br>I'm currently learning AWS and Django, Docker & Kubernetes and genAI.<br>
+I'm currently working at Deloitte.<br>I'm a full-stack developer with proficiency in ReactJS, NextJS, NodeJS, and PostgreSQL.<br>I'm currently learning  Django, AWS, Docker & Kubernetes and GenAI.<br>
 
 
 ## 🌐 Socials:
